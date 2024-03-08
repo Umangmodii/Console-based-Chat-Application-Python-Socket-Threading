@@ -1,6 +1,7 @@
 
 Console-based Chat Application | Python | Socket | ThreadingConsole-based Chat Application | Python | Socket | Threading
 Mar 2024 - Mar 2024Mar 2024 - Mar 2024
+<br>
 **Key Achievements:**
 
 - Implemented a server-client architecture allowing users to connect, send, and receive messages seamlessly.
